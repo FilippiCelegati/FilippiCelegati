@@ -1,4 +1,4 @@
-**Olá! Eu sou o Filippi Celegati
+### Olá! Eu sou o Filippi Celegati
 
 - 🔭 Buscando oportunidades para trabalhar Front-End.
 - 🌱 Sou Formado em Engenharia da Computação.
